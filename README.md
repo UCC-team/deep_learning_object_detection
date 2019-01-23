@@ -225,7 +225,6 @@ So i
 
 - **[CAMOU]** CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild | Yang Zhang, et al. | **[ICLR' 19]** |[`[pdf]`](https://openreview.net/pdf?id=SJgEl3A5tm) 
 
-
 ## Contact & Feedback
 
 If you have any suggestions about papers, feel free to mail me :)
