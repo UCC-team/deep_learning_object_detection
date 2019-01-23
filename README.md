@@ -186,7 +186,7 @@ So i
 
 - **[DA Faster R-CNN]** Domain Adaptive Faster R-CNN for Object Detection in the Wild | Yuhua Chen, et al. | **[CVPR' 18]** |[`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [`[official code - caffe]`](https://github.com/yuhuayc/da-faster-rcnn)
 
-- **[SNIP]** An Analysis of Scale Invariance in Object Detection – SNIP | Bharat Singh, Larry S. Davis | **[CVPR' 18]** |[`[pdf]`](https://arxiv.org/pdf/1711.08189.pdf)[`[unknown code - mxnet]`](https://github.com/bharatsingh430/snip) or [`[unknown code - mxnet]`](https://github.com/mahyarnajibi/SNIPER)
+- **[SNIP]** An Analysis of Scale Invariance in Object Detection – SNIP | Bharat Singh, Larry S. Davis | **[CVPR' 18]** |[`[pdf]`](https://arxiv.org/pdf/1711.08189.pdf)[`[unknown code - mxnet]`](https://github.com/mahyarnajibi/SNIPER) or [`[unknown code - mxnet]`](https://github.com/mahyarnajibi/SNIPER)
 
 - **[Relation-Network]** Relation Networks for Object Detection | Han Hu, et al. | **[CVPR' 18]** |[`[pdf]`](https://arxiv.org/pdf/1711.11575.pdf) [`[official code - mxnet]`](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 
